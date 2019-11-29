@@ -1,0 +1,7 @@
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\bin\Debug\K100-consol-lesson 1-11.29.2019.exe.config
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\bin\Debug\K100-consol-lesson 1-11.29.2019.exe
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\bin\Debug\K100-consol-lesson 1-11.29.2019.pdb
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\obj\Debug\K100-consol-lesson 1-11.29.2019.csprojAssemblyReference.cache
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\obj\Debug\K100-consol-lesson 1-11.29.2019.csproj.CoreCompileInputs.cache
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\obj\Debug\K100-consol-lesson 1-11.29.2019.exe
+C:\Users\Vaqif.Idrak\source\repos\K100-consol-lesson 1-11.29.2019\K100-consol-lesson 1-11.29.2019\obj\Debug\K100-consol-lesson 1-11.29.2019.pdb
